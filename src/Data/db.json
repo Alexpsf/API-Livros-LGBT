@@ -1,0 +1,14 @@
+{
+    "books": [
+        { "id": 1, "title": "Call Me by Your Name", "author": "André Aciman", "genre": "Romance", "description": "A powerful romance between two young men in Italy." },
+        { "id": 2, "title": "Red, White & Royal Blue", "author": "Casey McQuiston", "genre": "Romance", "description": "A love story between the First Son of the United States and a British prince." },
+        { "id": 3, "title": "The Color Purple", "author": "Alice Walker", "genre": "Historical Fiction", "description": "A poignant tale of a black woman in the American South." },
+        { "id": 4, "title": "Orlando", "author": "Virginia Woolf", "genre": "Literary Fiction", "description": "A story of a gender-changing immortal." },
+        { "id": 5, "title": "Giovanni's Room", "author": "James Baldwin", "genre": "Literary Fiction", "description": "A moving narrative of a man grappling with his sexuality." },
+        { "id": 6, "title": "The Song of Achilles", "author": "Madeline Miller", "genre": "Fantasy", "description": "A retelling of the Iliad from the perspective of Patroclus." },
+        { "id": 7, "title": "Fun Home: A Family Tragicomic", "author": "Alison Bechdel", "genre": "Graphic Novel", "description": "A graphic memoir of the author's coming of age and coming out." },
+        { "id": 8, "title": "Simon vs. the Homo Sapiens Agenda", "author": "Becky Albertalli", "genre": "Young Adult", "description": "A coming-of-age story about a teenage boy coming out to his friends and family." },
+        { "id": 9, "title": "Maurice", "author": "E.M. Forster", "genre": "Romance", "description": "A novel about a young man's struggles with his sexuality in early 20th century England." },
+        { "id": 10, "title": "Boy Erased", "author": "Garrard Conley", "genre": "Memoir", "description": "A memoir about a young man's experience with conversion therapy." }
+    ]
+}
